@@ -1,0 +1,14 @@
+{
+    "name": "liu/liutest",
+    "description": "composer test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "liu",
+            "email": "liu@so.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
